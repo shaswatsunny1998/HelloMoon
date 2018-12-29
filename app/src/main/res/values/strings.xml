@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">HelloMoon</string>
+    <string name="hello_moon_play">Play</string>
+    <string name="hello_moon_stop">Stop</string>
+    <string name="moon_description">Neil Armstrong Stepping on Moon</string>
+    <string name="pause">Pause</string>
+</resources>
